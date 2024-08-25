@@ -7,7 +7,7 @@
 使用语言：Matlab
 
 ### 论文
-工具：word
+工具：word  
 绘图：geogebra
 
 ### 学习渠道
